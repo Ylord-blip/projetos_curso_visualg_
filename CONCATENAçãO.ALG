@@ -1,19 +1,19 @@
-Algoritmo "concatenação"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "concatenaÃ§Ã£o"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Pedro VinÃ­cius AraÃºjo Figueiredo 
 // Data atual  : 07/09/2023
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
      nome: caractere
      numero: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
      escreval("Digite seu nome")
      leia(nome)
-     escreval("Digite seu número")
+     escreval("Digite seu nÃºmero")
      leia(numero)
      
      escreval(nome, " : ", numero)
